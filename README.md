@@ -185,9 +185,88 @@
 </head>
 <body>
 
-<!-- rest of your HTML stays unchanged -->
+<header>
+  <div class="title-area">
+    <img src="logo.jpg" alt="Jain ENT Hospital Logo" />
+    <div>
+      <h1 style="margin: 0;">Jain ENT Hospital Deesa</h1>
+      <p style="margin: 0;">Iscon Pride, Deesa – Tharad Hwy, Opp. Reliance Petrol Pump, Deesa</p>
+    </div>
+  </div>
+  <button class="menu-toggle" onclick="document.querySelector('nav').classList.toggle('show')">☰</button>
+</header>
 
-<!-- Do not repeat from here, rest of your site already included correctly -->
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#doctor">Doctor</a>
+  <a href="#services">Services</a>
+  <a href="#appointment">Appointment</a>
+  <a href="#feedback">Feedback</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero" id="home">
+  <h1>Trusted ENT & Cancer Care in Deesa</h1>
+  <p>Modern ENT solutions with Audiometry, In-house Pharmacy</p>
+</section>
+
+<section class="section" id="about">
+  <h2>About Jain ENT Hospital Deesa</h2>
+  <ul>
+    <li>General Wards and Air-conditioned IPD rooms</li>
+    <li>Yashvi Medical Store – In-house pharmacy</li>
+    <li>ENT Diagnostics, Audiometry & Video Endoscopy</li>
+    <li>TV Waiting Area, Free OPD Every Thursday (10am–2pm)</li>
+  </ul>
+</section>
+
+<section class="section" id="doctor">
+  <h2>Dr. Devendra Jain</h2>
+  <p><strong>MBBS, MS ENT</strong> – ex-BJ Medical College, Pune</p>
+  <p>Head-Neck Surgeon & ENT Specialist with 15+ years experience</p>
+</section>
+
+<section class="section" id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>ENT Consultation and Surgeries</li>
+    <li>Head & Neck Cancer Treatment</li>
+    <li>Audiometry & Hearing Tests</li>
+    <li>Special IPD Rooms</li>
+    <li>In-house Pharmacy</li>
+    <li>Video Consultation on Request</li>
+    <li>Ear, Nose, Throat Video Endoscopy</li>
+  </ul>
+</section>
+
+<section class="section" id="appointment">
+  <h2>Book an Appointment</h2>
+  <p> Register Your  Appointment from Text/Whatsapp/Email  </p>
+
+
+<section class="section" id="feedback">
+  <h2>Share Your Feedback</h2>
+  <p>We’d love to hear about your experience. Leave a review on Google:</p>
+  <a class="btn" href="https://www.google.com/search?q=Jain+ENT+Hospital+Deesa&hl=en#lrd=0x395d455333b5c6cb:0x9b5c0a132962b5ac,1,,," target="_blank">Write a Google Review</a>
+</section>
+
+<section class="section" id="contact">
+  <h2>Contact Us</h2>
+  <p><strong>Phone:</strong> <a href="tel:+919325769599">+91 9325769599</a>, <a href="tel:+916359009719">+91 6359009719</a></p>
+  <p><strong>Email:</strong> jainenthospitaldeesa@gmail.com</p>
+  <p><strong>Facebook:</strong> <a href="https://facebook.com/jainenthospitaldeesa" target="_blank">facebook.com/jainenthospitaldeesa</a></p>
+  <iframe src="https://www.google.com/maps?q=First+floor,+Iscon+Pride,+Deesa,+Gujarat+385535&output=embed" width="100%" height="400" frameborder="0"></iframe>
+</section>
+
+<a class="whatsapp" href="https://wa.me/+919325769599" target="_blank">Chat on WhatsApp</a>
+
+<footer>
+  <p>&copy; 2025 Jain ENT Hospital Deesa. Subject to Deesa Jurisdiction.</p>
+<p> Designed and Developed By Jain Web Developers - Deesa </p>
+</footer>
 
 </body>
 </html>
+
+
