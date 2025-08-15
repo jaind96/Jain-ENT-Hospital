@@ -263,7 +263,7 @@
 
 <footer>
   <p>&copy; 2025 Jain ENT Hospital Deesa. Subject to Deesa Jurisdiction.</p>
-<p> Designed and Developed By Jain Web Developers - Deesa 
+<p> Designed and Developed By Jain Web Designer - Deesa 
 jainpurvang2011@gmail.com </p>
 </footer>
 
