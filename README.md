@@ -242,18 +242,10 @@
 
 <section class="section" id="appointment">
   <h2>Book an Appointment</h2>
-  <p>Please fill out the form below to request an appointment and optionally make a payment.</p>
+  <p>Please fill out the form below to request an appointment and make a payment.</p>
 
   <!-- Embedded Microsoft Form -->
   <iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=GdHnqnnnGi&embed=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" style="border: none; max-width: 100%;" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-  <!-- Razorpay Payment Button -->
-  <div style="margin-top: 2rem;">
-    <form>
-      
-    </form>
-  </div>
-</section>
 
 
 <section class="section" id="feedback">
