@@ -257,7 +257,7 @@
 <section class="section" id="contact">
   <h2>Contact Us</h2>
   <p><strong>Phone:</strong> <a href="tel:+919325769599">+91 9325769599</a>, <a href="tel:+916359009719">+91 6359009719</a></p>
-  <p><strong>Email:</strong> jainenthospitaldeesa@gmail.com</p>
+  <p><strong>Email:</strong> jainentdrdevendra@gmail.com</p>
   <p><strong>Facebook:</strong> <a href="https://facebook.com/jainenthospitaldeesa" target="_blank">facebook.com/jainenthospitaldeesa</a></p>
   <iframe src="https://www.google.com/maps?q=First+floor,+Iscon+Pride,+Deesa,+Gujarat+385535&output=embed" width="100%" height="400" frameborder="0"></iframe>
 </section>
@@ -266,7 +266,7 @@
 
 <footer>
   <p>&copy; 2025 Jain ENT Hospital Deesa. Subject to Deesa Jurisdiction.</p>
-<p> Designed and Developed By Jain Coderz
+<p> Designed and Developed :
 jainpurvang2011@gmail.com </p>
 </footer>
 
