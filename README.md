@@ -244,9 +244,6 @@
   <h2>Book an Appointment</h2>
   <p>Please fill out the form below to request an appointment and make a payment.</p>
 
-  <!-- Embedded Microsoft Form -->
-  <iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=GdHnqnnnGi&embed=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" style="border: none; max-width: 100%;" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
 
 <section class="section" id="feedback">
   <h2>Share Your Feedback</h2>
@@ -256,8 +253,9 @@
 
 <section class="section" id="contact">
   <h2>Contact Us</h2>
-  <p><strong>Phone:</strong> <a href="tel:+919325769599">+91 9325769599</a>, <a href="tel:+916359009719">+91 6359009719</a></p>
-  <p><strong>Email:</strong> jainentdrdevendra@gmail.com</p>
+  <p><strong>Phone:</strong> <a href="tel:+919325769599">+91 9325769599</a>, <a href="tel:+916359009719">
+          +91 6359009719</a></p>
+  <p><strong>Email:</strong> jaind96@gmail.com</p>
   <p><strong>Facebook:</strong> <a href="https://facebook.com/jainenthospitaldeesa" target="_blank">facebook.com/jainenthospitaldeesa</a></p>
   <iframe src="https://www.google.com/maps?q=First+floor,+Iscon+Pride,+Deesa,+Gujarat+385535&output=embed" width="100%" height="400" frameborder="0"></iframe>
 </section>
